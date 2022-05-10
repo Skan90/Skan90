@@ -5,9 +5,9 @@
  - English TOEFL iBT - Common European Framework of Reference leve C1 (Fluent)
 
  <div>
-  <a href="https://github.com/Skan90">
+  <a href="https://github.com/skan90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skan90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skan90&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skan90&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   
