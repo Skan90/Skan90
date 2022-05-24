@@ -2,7 +2,7 @@
  - Old school nerd from Brazil 
  - Great passion for tech in general
  - Portuguese from Brazil (Native)
- - English TOEFL iBT - Common European Framework of Reference leve C1 (Fluent)
+ - English TOEFL iBT - Common European Framework of Reference level C1 (Fluent)
 
  <div>
   <a href="https://github.com/skan90">
