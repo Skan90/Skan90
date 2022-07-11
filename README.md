@@ -8,6 +8,7 @@
   <a href="https://github.com/skan90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skan90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skan90&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   
@@ -25,7 +26,7 @@
 <div> 
    <a href="https://instagram.com/skan90" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafasilva.9021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafasantos90/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/skan90/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.beecrowd.com.br/judge/pt/profile/28449" target="_blank"><img src="https://i.imgur.com/1JBXKRO.png" target="_blank"></a> 
  
  
