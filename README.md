@@ -1,4 +1,5 @@
  - Welcome to my humble repository!
+ - Intern Java programmer at <a href="https://db.tec.br/ target="_blank">DBServer</a> (based in Brazil)
  - Old school nerd from Brazil 
  - Great passion for tech in general
  - Portuguese from Brazil (Native)
